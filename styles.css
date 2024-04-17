@@ -131,6 +131,16 @@ select {
 
   @media only screen and (max-width: 635px) {
 
+    html {
+
+
+        font-family: Kanit;
+        margin-left: 0px;
+        background-color: #C9ADA7;
+        width: 100vw;
+    
+    }
+
 
     body {
         height: 100vh;
@@ -169,7 +179,7 @@ select {
     .tracker {
         width: 100vw;
         margin-left: 5px;
-        margin-right: 5px;
+        margin-right: 0px;
     }
 
     .input-container {
@@ -189,7 +199,7 @@ select {
 
     fieldset {
         margin-left: 10px;
-        margin-right: 10px;
+        margin-right: 0px;
         margin-bottom: 20px;
     }
 
@@ -234,7 +244,7 @@ select {
 
 
    .calorie-table {
-    margin-left: 5px;
+    margin-left: 0px;
    width: 100vw;
    }
 
@@ -244,7 +254,7 @@ select {
    }
 
    .add-entry {
-    margin-left: 70px;
+    margin-left: 5px;
    }
 
    #output {
