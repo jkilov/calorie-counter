@@ -192,14 +192,14 @@ select {
  
     }
     .input-container input {
-        width: 350px;
+        width: 290px;
         display: block;
     }
 
 
     fieldset {
         margin-left: 10px;
-        margin-right: 0px;
+        margin-right: 30px;
         margin-bottom: 20px;
     }
 
